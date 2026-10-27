@@ -18,5 +18,3 @@ def total():
     for num in range(1,65):
         sum += square(num)
     return sum
-
-C:\Users\prasa\Python_Learning\Day_02\grains.py
