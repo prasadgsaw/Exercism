@@ -14,7 +14,7 @@ def square(number):
         return 2 ** (number - 1)
 
 def total():
-    sum = 0
+    total_grains = 0
     for num in range(1,65):
-        sum += square(num)
-    return sum
+        total_grains += square(num)
+    return total_grains
