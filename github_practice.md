@@ -7,3 +7,10 @@
 
 ## Next Goal
 Learn how to create and merge a pull request.
+
+## Local Development Practice
+
+- Installed Git for Windows.
+- Configured Git user identity.
+- Cloned the repository to my computer.
+- Opened the repository in VS Code.
