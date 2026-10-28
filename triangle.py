@@ -23,7 +23,3 @@ def scalene(sides):
         return False
     else:
         return (sides[0] != sides[1]) and (sides[1] != sides[2]) and (sides[0] != sides[2])
-
-print(equilateral([0, 2, 2]))
-print(isosceles([0, 2, 2]))
-print(scalene([0, 2, 2]))
